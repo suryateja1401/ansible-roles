@@ -8,7 +8,7 @@ service_account: ec2-user
 
 ##### Nexus details
 nexusserverip:54.84.25.142
-nexus_repo: java-code
+nexus_repo:java-code
 # dotnet cicd variable
 nexus_appname: myweb
 
